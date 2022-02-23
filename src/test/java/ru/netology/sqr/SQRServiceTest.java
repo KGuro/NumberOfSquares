@@ -7,7 +7,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class SQRServiceTest {
 
-    private int expected;
 
     @ParameterizedTest
     @CsvSource(
